@@ -4,7 +4,7 @@
 
 # Recording
 
-The Event
+`The Event` : 
 Those who want to revise or have missed some part in the workshop can refer to the recording click [here](https://drive.google.com/file/d/1iTFUaBLwCBlMiBx_x47uNd5uwAb6RoI4/view?usp=sharing)
 
 
