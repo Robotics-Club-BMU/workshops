@@ -8,7 +8,7 @@
 
 # Event Poster
 
-<video src="video.mp4" alt="poster" style="width:400px;"></video>
+<img src="poster.gif" width=50%>
 
 # Recording
 

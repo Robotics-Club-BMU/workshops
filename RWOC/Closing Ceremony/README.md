@@ -14,7 +14,7 @@ See you all at 6 pm.
 
 # Event Poster
 
-<video src="poster.mp4" alt="poster" style="width:400px;"></video>
+<img src="poster.gif" width=50%>
 
 # Recording
 
