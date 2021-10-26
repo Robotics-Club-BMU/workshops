@@ -6,7 +6,7 @@ It is the weekend !!
 We know, you expect to learn something interesting and very much useful.
 So, we are going to have a session on processing.
 It's a bit new, but worth learning.
-You would be given some introduction to processing and learn its uses too.
+You will be given some introduction to processing and learn its uses too.
 Do you have a doubt like what is the connection between Robotics and Processing?
 Don't worry... Join with us at 6.30 pm and know all the answers for your queries...
 </h3>
