@@ -23,3 +23,9 @@ I hope this answered your question...
 
 `The Event` : 
 Those who want to revise or have missed some part in the workshop can refer to the recording click [here](https://drive.google.com/file/d/1bHxKC_I3l_vAOwnXceiIcOZ6rXtPegIy/view?usp=sharing)
+
+
+
+# Presentation
+
+Hava a look [here](https://www.canva.com/design/DAEs0TQ-KvY/gn1PvwLLcoXWjkmkKsHzDA/view?utm_content=DAEs0TQ-KvY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) for the ppt explaining Web development.

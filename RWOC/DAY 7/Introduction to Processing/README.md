@@ -22,3 +22,8 @@ Don't worry... Join with us at 6.30 pm and know all the answers for your queries
 
 `The Event` : 
 Those who want to revise or have missed some part in the workshop can refer to the recording click [here](https://drive.google.com/file/d/1fNnRdUP2cgVkm5wBcdRPjiBiG88cXaKY/view?usp=sharing)
+
+
+# Presentation
+
+Hava a look [here](https://www.canva.com/design/DAEs5PP1hXM/dmeKVxT2Z2nRa0biZl4r4w/view?utm_content=DAEs5PP1hXM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) for the ppt explaining processing.
