@@ -16,7 +16,8 @@ Find all the practicals shown in the workshop [here](https://www.tinkercad.com/t
 
 The students Were asked to make Tasks in the workshop solutions to them are below:
 
-- ### Task - 1 : [Brightness control using  any sensor.](https://www.tinkercad.com/things/hy1MN3ZhfSS-sizzling-sango/editel?sharecode=kYFUqSmNZ_4_nftAWM8Pm0lNYf70Gz89TJb7nywHf1Y)
+- ### Task - 1 : Brightness control using  any sensor.
+<img src="led brightness control.jpeg" alt="poster" style="width:400px;"/>
 
 - ### Task - 2 : [control the speed of motor using hand gestures.](https://www.tinkercad.com/things/k0LMbFM6Dqr-spectacular-bombul/editel?sharecode=vsk_iEDHfjVAtf9YElPB1HqPm6KOHsDkb588KZYKN68)
 
