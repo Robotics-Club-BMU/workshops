@@ -19,5 +19,5 @@ The students Were asked to make Tasks in the workshop solutions to them are belo
 - ### Task - 1 : Brightness control using  any sensor.
 <img src="led brightness control.jpeg" alt="poster" style="width:400px;"/>
 
-- ### Task - 2 : [control the speed of motor using hand gestures.](https://www.tinkercad.com/things/k0LMbFM6Dqr-spectacular-bombul/editel?sharecode=vsk_iEDHfjVAtf9YElPB1HqPm6KOHsDkb588KZYKN68)
-
+- ### Task - 2 : control the speed of motor using hand gestures.
+<img src="speed control.jpeg" alt="poster" style="width:400px;"/>
