@@ -8,4 +8,4 @@ Those who want to revise or have missed some part in the workshop can refer to t
 
 # Presentation
 
-Hava a look [here](https://www.canva.com/design/DAEuf0EzDqs/qK5czelWV1mW5AKMC566TQ/edit?utm_content=DAEuf0EzDqs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) for the presentation.
+Hava a look at [here](https://www.canva.com/design/DAEuf0EzDqs/qK5czelWV1mW5AKMC566TQ/edit?utm_content=DAEuf0EzDqs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) for the presentation.
