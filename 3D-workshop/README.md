@@ -4,7 +4,7 @@
 
 # Tasks
 
-In the workshop, we had explained the concept by doing some models they are:
+We demonstrated the concept in the workshop by creating the following models:
 
 - ### Model - 1 :
 
